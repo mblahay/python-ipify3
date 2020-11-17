@@ -1,3 +1,5 @@
+This is a fork which I plan to make into an unofficial library compatible with the newer releases of Python3. I will posted it to PyPI as ipify3.
+
 python-ipify
 ============
 
